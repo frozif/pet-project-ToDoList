@@ -1,0 +1,26 @@
+
+/* ------------------------ */
+/* Основная часть Счетчика и Удаления */
+
+.Task_info{
+      display: flex;
+    justify-content: space-between;
+}
+/* ------------------------. */
+/* Счетчик Тасков */
+
+.Task_score{
+font-family: var(--font-family);
+font-weight: 600;
+font-size: 16px;
+line-height: 140%;
+color: #000;
+}
+
+.Task_score span{
+font-family: var(--font-family);
+font-weight: 600;
+font-size: 16px;
+line-height: 140%;
+color: #000;
+}

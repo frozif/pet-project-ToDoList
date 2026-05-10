@@ -1,0 +1,23 @@
+
+/* ------------------------ */
+/* Поиск Таска в Листе */
+
+.ToDo_searchTask{
+  position: relative;
+    width: 200px;
+}
+
+.ToDo_searchTask input{
+    width: 100%;
+  padding-left: 30px;
+}
+
+.ToDo_searchTask img{ 
+  position: absolute;
+  left: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 16px;
+  height: 16px;
+
+}
